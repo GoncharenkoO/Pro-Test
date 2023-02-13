@@ -52,7 +52,7 @@ const data = [
     position: 'Front-End Developer',
     social: {
       linkedin: 'https://www.linkedin.com',
-      github: 'https://github.com/bezdarshadow',
+      github: 'https://github.com/moonshvdow',
       telegram: 'https://t.me/moonshadow04',
       google: 'mailto:dykyu04@gmail.com',
     },
